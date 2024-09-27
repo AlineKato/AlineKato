@@ -9,7 +9,7 @@
   
   - Formada em Ciência da Computação :mortar_board:
   
-  - Atualmente trabalho como Full Stack Developer [Angular/C#]
+  - Atualmente trabalho como Full Stack Developer ll [Angular/C#]
   
   - Tenho uma paixão por Experiência de Usuário (UX) :heart:
 </h3>
