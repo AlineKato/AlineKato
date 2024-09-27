@@ -9,9 +9,9 @@
   
   - Formada em Ciência da Computação :mortar_board:
   
-  - Atualmente trabalho como Full Stack Developer [Angular :globe_with_meridians: / C# :computer:]
+  - Atualmente trabalho como Full Stack Developer [Angular/C#]
   
-  - Tenho uma paixão por Experiência de Usuário (UX) :art: :heart:
+  - Tenho uma paixão por Experiência de Usuário (UX) :heart:
 </h3>
 <div align="center">
   <a href="https://github.com/AlineKato">
