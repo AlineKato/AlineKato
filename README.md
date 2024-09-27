@@ -4,19 +4,15 @@
 
 ##
 
-  <h3>
+<h3>
+  - Eu sou Japonesa Nativa e Fluente em Português! :crossed_flags:
   
-  - Eu sou Japonesa Nativa e Fluente português!!:crossed_flags:
+  - Formada em Ciência da Computação :mortar_board:
   
-  - Cursando Ciencia da Computação na Universidade Vila Velha (5°Periodo)
+  - Atualmente trabalho como Full Stack Developer [Angular :globe_with_meridians: / C# :computer:]
   
-  - Tenho paixão na área de front-end💻 e web design:art:
-  
-  - Vou começar postar meu projetos!!:file_folder:
-  
-  - Procurando Estágio na área que eu tenho paixão💻❤️:art:
-    
-  </h3>
+  - Tenho uma paixão por Experiência de Usuário (UX) :art: :heart:
+</h3>
 <div align="center">
   <a href="https://github.com/AlineKato">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlineKato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
